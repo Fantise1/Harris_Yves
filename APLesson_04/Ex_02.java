@@ -44,6 +44,6 @@ public class Ex_02
 	}
 	public void format(String ob1, String ob2)
 	{
-		System.out.printf("* %10s %10s\n", ob1, ob2, "*");
+		System.out.printf("* %15s %15s *\n", ob1, ob2);
 	}
 }
